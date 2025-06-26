@@ -104,6 +104,6 @@
 <div style="display: flex; justify-content: flex-end; align-items: center; margin-top: 30px;">
     <a href="01-first-steps/01-installation.md" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px; font-family: 'Segoe UI', 'Roboto', sans-serif; display: flex; align-items: center;">
         <span>Вперед: Установка</span> 
-        <span style="font-size: 24px; margin-left: 10px; line-height: 1;">➔</span>
+        <span style="font-size: 24px; margin-left: 10px; line-height: 1;">▶</span>
     </a>
 </div>
